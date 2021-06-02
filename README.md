@@ -3,6 +3,7 @@
 SNOWCONN is a script for dealing with a connecting snowflake to python.
 
 ## Requirements
+Install snowsql
 
 Install snowflake.connector first from the link below
 
